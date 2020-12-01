@@ -1,8 +1,8 @@
 # Phone Store Management
 
 ### What is this?
-  This repo contains the source code of **Phone Store Management (C#)**.
-  A group assignment project in Semester 5 - FPT University - HCMC campus.
+ This repo contains the source code of **Phone Store Management (C#)**.\
+ A group assignment project in Semester 5 - FPT University - HCMC campus.
 
 ### Team members:
   - **Le Bao Long**: Design UI and code
